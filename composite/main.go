@@ -56,5 +56,5 @@ func (c Picture) Draw() {
 	fmt.Println("pictureend")
 }
 
-func main() {
+func TestComposite() {
 }
