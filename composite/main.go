@@ -58,4 +58,5 @@ func (c Picture) Draw() {
 
 func TestComposite() {
 	
+
 }
