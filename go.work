@@ -1,0 +1,7 @@
+go 1.21.0
+
+use ./composite
+
+use ./creational/abstract-factory
+
+use ./creational/builder
