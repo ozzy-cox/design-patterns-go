@@ -12,4 +12,7 @@ use (
 	./structural/decorator
 	./structural/facade
 	./structural/flyweight
+	./structural/proxy
+	./behavioral/chain-of-responsibility
+	./behavioral/command
 )
