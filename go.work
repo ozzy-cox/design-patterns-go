@@ -1,4 +1,4 @@
-go 1.21.0
+go 1.21.1
 
 use (
 	./creational/abstract-factory
@@ -16,4 +16,6 @@ use (
 	./behavioral/chain-of-responsibility
 	./behavioral/command
 	./behavioral/interpreter
+	./behavioral/iterator
+
 )
